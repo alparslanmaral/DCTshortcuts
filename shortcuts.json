@@ -1,0 +1,22 @@
+[
+  {
+    "name": "GitHub",
+    "description": "Kod depolarım ve projelerim.",
+    "url": "https://github.com/"
+  },
+  {
+    "name": "Stack Overflow",
+    "description": "Yazılım geliştirici topluluğu.",
+    "url": "https://stackoverflow.com/"
+  },
+  {
+    "name": "Google",
+    "description": "Arama motoru.",
+    "url": "https://google.com/"
+  },
+  {
+    "name": "Figma",
+    "description": "UI/UX tasarım aracı.",
+    "url": "https://figma.com/"
+  }
+]
