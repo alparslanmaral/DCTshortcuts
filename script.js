@@ -179,6 +179,23 @@ const data = [
         "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
       }
     ]
+  },
+  {
+    category: "İstek & Öneri",
+    shortcuts: [
+      {
+        "name": "Kısayol İstek",
+        "description": "Eklenmesini istediğiniz kısayolu paylaşın.",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdeSIUYTsSLhbS21aeRIsMLlGhCdxNIsx9xMxQ-GoKiCrElsg/viewform?usp=dialog",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Google_Forms_2020_Logo.svg/1200px-Google_Forms_2020_Logo.svg.png"
+      },
+      {
+        "name": "Öneri & Şikayet",
+        "description": "Öneri veya şikayetlerinizi paylaşın.",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScfHn3JRQ0hR_vB_ka6NdxEUKX-ckPpaCjQ6IaF-PQSWkP0Lg/viewform?usp=dialog",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Google_Forms_2020_Logo.svg/1200px-Google_Forms_2020_Logo.svg.png"
+      }
+    ]
   }
 ];
 
