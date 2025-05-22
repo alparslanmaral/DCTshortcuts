@@ -159,7 +159,7 @@ const data = [
         "name": "Kick",
         "description": "Açık ara en iyi yayın platformudur.",
         "url": "https://kick.com/",
-        "img": "https://static.wikia.nocookie.net/logopedia/images/1/11/Kick_%28Icon%29.svg/revision/latest/scale-to-width-down/250?cb=20230622003955"
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kick.com_icon_logo.svg/800px-Kick.com_icon_logo.svg.png"
       }
     ]
   },
